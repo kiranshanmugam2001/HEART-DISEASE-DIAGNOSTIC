@@ -2,7 +2,7 @@
 The goal of this project is to analyse the heart disease
 occurrence, based on a combination of features that
 describes the heart disease.
-# Poblem Statement ❓
+# Problem Statement ❓
 Health is real wealth in the pandemic time we all realized the
 brute effects of covid 19 on all irrespective of any status. You
 are required to analyse this health and medical data for
